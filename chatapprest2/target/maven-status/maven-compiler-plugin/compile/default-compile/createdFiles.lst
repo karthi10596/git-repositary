@@ -1,0 +1,17 @@
+com\person\DAO\ForumDAOImpl.class
+com\person\entity\Forum.class
+com\person\config\ApplicationContextConfig.class
+com\person\rest\ForumController.class
+com\person\DAO\UserDAOImpl.class
+com\person\DAO\BlogDAOImpl.class
+com\person\DAO\JobDAOImpl.class
+com\person\DAO\JobDAO.class
+com\person\entity\Job.class
+com\person\entity\User.class
+com\person\rest\BlogController.class
+com\person\rest\JobController.class
+com\person\DAO\UserDAO.class
+com\person\DAO\BlogDAO.class
+com\person\DAO\ForumDAO.class
+com\person\rest\UserController.class
+com\person\entity\Blog.class
